@@ -1,0 +1,14 @@
+module.exports = Object.freeze({
+  MODAL_BODY_TYPES: {
+    CONFIRMATION: "CONFIRMATION",
+    DEFAULT: "",
+  },
+
+  RIGHT_DRAWER_TYPES: {
+    NOTIFICATION: "NOTIFICATION",
+  },
+
+  CONFIRMATION_MODAL_CLOSE_TYPES: {
+    LEAD_DELETE: "LEAD_DELETE",
+  },
+});
